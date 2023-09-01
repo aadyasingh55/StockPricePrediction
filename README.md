@@ -1,10 +1,10 @@
-# Stock Price Prediction using Scikit-Learn
+# TCS Stock Price Prediction using Scikit-Learn
 
 This repository contains a simple example of using scikit-learn to perform stock price prediction. The program utilizes the `HistGradientBoostingRegressor` model from scikit-learn to predict stock prices based on various features such as Open, High, Low, Close, and Volume.
 
 ## Description
 
-Stock price prediction is a common application of machine learning in finance. In this example, we demonstrate how to use scikit-learn, a popular machine learning library in Python, to predict stock prices using historical data. The program performs the following steps:
+Stock price prediction is a common application of machine learning in finance. In this example, we demonstrate how to use scikit-learn, a popular machine learning library in Python, to predict stock prices using historical TCS data. The program performs the following steps:
 
 1. Load historical stock data from a CSV file.
 2. Extract relevant features (Open, High, Low, Close, Volume) and the target variable (Adj Close).
